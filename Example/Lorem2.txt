@@ -1,304 +1,816 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non nibh
-turpis. Donec leo ante, venenatis eu feugiat sed, eleifend in ante.
-Curabitur eu tempus lorem. Sed enim sapien, accumsan mattis gravida a,
-condimentum laoreet lacus. Fusce tempus magna sed nunc fermentum eu
-rutrum risus aliquet. Pellentesque habitant morbi tristique senectus et
-netus et malesuada fames ac turpis egestas. Donec sed purus ligula.
-Phasellus luctus fringilla nunc sed dignissim. Nullam sit amet nisi at
-tellus lacinia tristique. Donec porttitor arcu vitae sapien tristique
-accumsan. Sed gravida suscipit sollicitudin. Donec accumsan laoreet
-felis et dapibus.
+	JULIUS CAESAR
 
-Nulla semper, est tempus fringilla elementum, elit nunc sodales erat, in
-consequat metus elit in elit. Cras sed interdum est. Nam vitae euismod
-orci. Donec sed eros urna, nec hendrerit urna. In justo odio, posuere
-vitae sodales quis, posuere ut nulla. Donec ante arcu, porta non rutrum
-at, placerat eget odio. Suspendisse varius dictum porta. Aliquam erat
-volutpat. Duis semper lectus at elit egestas tempus. Sed auctor felis
-sit amet justo vehicula a vestibulum magna dictum. Nam gravida lorem ac
-purus aliquet porta. Vestibulum aliquet tellus a lorem mollis fermentum.
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-ridiculus mus. Quisque lectus quam, laoreet quis pharetra ut, bibendum
-in purus.
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
-cubilia Curae; Donec lacinia volutpat turpis, et congue ligula pulvinar
-non. Vivamus feugiat convallis molestie. Aliquam convallis augue
-ultrices mauris viverra eu tincidunt lorem imperdiet. Nam dapibus, nisl
-non luctus aliquam, libero eros dignissim libero, at sagittis nunc augue
-sed quam. Morbi quis tempor mi. Cum sociis natoque penatibus et magnis
-dis parturient montes, nascetur ridiculus mus. Class aptent taciti
-sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-Proin egestas molestie quam, non pretium sem pulvinar in. Vestibulum
-iaculis laoreet turpis aliquet porta. Proin nisi felis, pellentesque a
-tristique nec, congue ac erat. Nunc ac magna et lectus mattis tristique.
-Ut id elementum purus.
+	DRAMATIS PERSONAE
 
-Sed bibendum lorem in eros condimentum quis pulvinar metus scelerisque.
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
-inceptos himenaeos. Sed nisi elit, malesuada quis tincidunt ut, semper
-id lacus. Cras fringilla nunc ac massa congue dignissim. Donec sit amet
-justo sapien, id pellentesque massa. In vel quam eu nulla elementum
-pellentesque vel vel diam. Fusce a fermentum mi. Integer pharetra risus
-quis turpis tincidunt dapibus at id leo. Nulla risus nisl, aliquam ac
-fermentum vel, auctor eget ante. Vivamus lectus dui, cursus eu tincidunt
-nec, blandit ut massa. Aenean eget elementum tortor. Nulla facilisis
-libero non dolor elementum cursus. Morbi convallis, urna et auctor
-pulvinar, risus erat posuere urna, non elementum leo justo in nisl. Ut
-porta aliquet lectus, eget ultrices felis dignissim ac.
 
-Fusce consequat interdum lacus, eu fringilla purus auctor a. Nullam
-gravida condimentum orci, id luctus lorem tempor mollis. Vivamus dolor
-nulla, pharetra et aliquet et, viverra vel lorem. Suspendisse dolor
-tortor, tempus in auctor eu, lobortis in nunc. In condimentum magna eget
-tortor tincidunt venenatis. Fusce id nisi tellus, eu condimentum odio.
-Etiam rutrum ante in augue lobortis lacinia. Duis urna erat, commodo et
-fringilla a, molestie a nunc. Maecenas tincidunt, nisi et sollicitudin
-semper, sem eros posuere dolor, id faucibus elit arcu eu nisi. Maecenas
-dui nunc, ornare ut dignissim at, pretium vitae justo. Maecenas rhoncus
-libero quis neque ultrices imperdiet. Nam ut nulla non ante auctor
-accumsan. Fusce elementum ultricies eros, sed pellentesque enim
-hendrerit id. Donec nec tortor quis quam viverra placerat sit amet ac
-eros. Duis iaculis euismod magna id tristique. Fusce ultricies pretium
-mi in vestibulum. Mauris ligula sapien, volutpat nec vestibulum vitae,
-pulvinar at velit.
+JULIUS CAESAR	(CAESAR:)
 
-Cras gravida lacus et risus lacinia sed sollicitudin metus fermentum.
-Maecenas sed ante arcu, eget consectetur est. Nulla facilisi. Nam non
-orci vitae risus sagittis rutrum sed id erat. Ut mollis molestie elit eu
-lobortis. Proin viverra, ipsum id feugiat adipiscing, nibh mauris
-consequat ligula, lobortis rhoncus leo lectus quis arcu. Ut rhoncus
-molestie mi sit amet imperdiet. Suspendisse potenti. Fusce interdum ante
-id ipsum fringilla aliquam. Proin nec metus nisi. Nunc malesuada neque
-ac enim iaculis tempor.
 
-Pellentesque elit quam, egestas sed lacinia eget, porta a nulla. Morbi
-vel nulla vel risus euismod auctor. Class aptent taciti sociosqu ad
-litora torquent per conubia nostra, per inceptos himenaeos. Quisque
-mollis tempor aliquet. Praesent suscipit nunc a massa ornare mollis.
-Cras quis odio eget nunc convallis tempor ullamcorper id erat. Sed
-viverra augue ac ipsum semper nec posuere diam varius. Pellentesque
-mauris nulla, laoreet sit amet vulputate vitae, ultricies vitae ipsum.
-Morbi sollicitudin congue sollicitudin. In vitae est hendrerit erat
-suscipit feugiat. Nulla pulvinar bibendum urna et lobortis. Nunc est
-tellus, elementum in tempor a, suscipit eu dui. Lorem ipsum dolor sit
-amet, consectetur adipiscing elit. Duis at libero sed odio rutrum porta
-a id metus. Vestibulum in dolor et odio condimentum tempus vitae eget
-nunc.
+OCTAVIUS CAESAR	(OCTAVIUS:)	|
+		|
+MARCUS ANTONIUS	(ANTONY:)	|  triumvirs after death of Julius Caesar.
+		|
+M. AEMILIUS		|
+LEPIDUS	(LEPIDUS:)	|
 
-Nunc consectetur adipiscing lacus sit amet tempus. Donec eu risus eros,
-vel fringilla erat. Donec lacus massa, lobortis ac auctor id, laoreet
-sit amet quam. In vel enim sit amet ipsum molestie ullamcorper ac ac
-elit. Nunc dui massa, dapibus sed rutrum a, porta adipiscing sem.
-Aliquam dictum sollicitudin lectus vitae sollicitudin. Vivamus rutrum
-odio quis justo auctor nec lacinia metus iaculis. Duis sagittis, sem
-sagittis adipiscing sodales, libero risus dictum diam, at laoreet libero
-nisi eget orci. Nunc vel egestas mauris. Sed pellentesque lacinia
-convallis. Sed fringilla odio id dui volutpat tincidunt. Fusce consequat
-euismod odio at fringilla. Integer cursus interdum augue, non ornare
-orci sagittis sit amet.
 
-Etiam eleifend nibh convallis tellus posuere feugiat ut at mauris.
-Curabitur scelerisque eros ac velit blandit congue. Vestibulum augue
-est, varius vel mollis non, lacinia eget mi. Ut convallis congue lorem.
-Phasellus bibendum lobortis cursus. Sed rhoncus augue sed magna lobortis
-eget pellentesque urna vestibulum. Mauris vel neque neque, nec rutrum
-risus. Aliquam erat volutpat. Nullam faucibus nisl quis odio facilisis
-id porta lectus venenatis. Vestibulum diam elit, hendrerit at varius
-eget, eleifend sed ipsum.
+CICERO		|
+		|
+PUBLIUS		|  senators.
+		|
+POPILIUS LENA	(POPILIUS:)	|
 
-Proin convallis nisi vel est gravida venenatis. Sed quis tortor a erat
-feugiat lacinia. Maecenas sodales pretium risus, tristique placerat
-lacus molestie vel. Quisque facilisis iaculis massa. Praesent
-ullamcorper, tortor sed dignissim eleifend, neque arcu auctor metus, nec
-feugiat massa arcu sed est. Sed fermentum facilisis sagittis. Curabitur
-ante lacus, facilisis et scelerisque at, cursus vel risus. Pellentesque
-habitant morbi tristique senectus et netus et malesuada fames ac turpis
-egestas. Integer convallis ligula pellentesque diam blandit lobortis.
-Donec facilisis massa in erat facilisis scelerisque. Curabitur bibendum
-consequat sagittis. Pellentesque vulputate ultricies magna sit amet
-rutrum. Phasellus lobortis neque rhoncus diam sagittis condimentum.
-Phasellus lacinia, quam et tristique malesuada, erat nulla laoreet erat,
-sit amet vestibulum risus velit eget risus. Nulla ullamcorper tristique
-orci ac congue. Proin placerat hendrerit nibh non adipiscing. Cras nec
-turpis mi, quis faucibus dolor.
 
-Fusce cursus metus ac urna congue nec blandit ligula placerat. Proin
-aliquam aliquam euismod. Morbi a nibh vitae eros cursus hendrerit vitae
-at tortor. Quisque tincidunt pretium orci. Morbi cursus purus ac tellus
-gravida sollicitudin facilisis justo tincidunt. Suspendisse sed molestie
-metus. Maecenas cursus urna ut magna sodales faucibus. Quisque eleifend,
-ante tempus scelerisque vestibulum, leo eros fermentum orci, vel
-eleifend turpis arcu a nisl. Mauris consectetur dolor non augue pretium
-a dapibus mi aliquet. Vivamus lectus ante, lacinia a condimentum sed,
-fermentum vitae risus. Aliquam scelerisque, turpis sit amet porta
-rhoncus, lacus nibh blandit lectus, non lacinia diam nunc feugiat felis.
-Suspendisse ac imperdiet nulla.
+MARCUS BRUTUS	(BRUTUS:)	|
+		|
+CASSIUS		|
+		|
+CASCA		|
+		|
+TREBONIUS		|
+		|   conspirators against Julius Caesar.
+LIGARIUS		|
+		|
+DECIUS BRUTUS		|
+		|
+METELLUS CIMBER		|
+		|
+CINNA		|
 
-Phasellus aliquam velit non purus bibendum non lacinia magna malesuada.
-Suspendisse ultricies nisi non lacus feugiat ut interdum velit commodo.
-Nulla lorem nunc, convallis dictum posuere id, faucibus eget est. Cras
-purus lacus, venenatis vitae sollicitudin vitae, scelerisque vel nisi.
-Maecenas at ornare odio. Nulla ac turpis id sem varius viverra. Nulla
-facilisi. Vivamus ultrices dignissim mauris, rutrum fringilla dolor
-malesuada sit amet. Cras a enim consequat metus tempus varius. Nam
-venenatis ultricies sapien, eget feugiat erat ultrices vel. In non risus
-in diam faucibus faucibus. Nam massa tellus, laoreet sit amet venenatis
-et, hendrerit sed nisl.
 
-Cras ipsum diam, tristique a luctus vitae, rhoncus vitae eros. Donec
-bibendum enim at ipsum tempus eget sollicitudin nunc scelerisque. Nullam
-vitae mauris velit, vel ultricies justo. Vestibulum dolor arcu, luctus
-sit amet euismod et, placerat id eros. Aenean at risus massa. Nulla
-tincidunt fringilla pulvinar. Vestibulum ultrices blandit lorem, blandit
-faucibus ligula commodo id. Donec eleifend velit quis mauris ultricies
-semper. Vivamus tristique odio eu tortor mollis a pulvinar libero
-lacinia. Nulla facilisi. Integer nec lectus ac diam vestibulum congue
-vel eget ligula. Maecenas mauris ipsum, aliquet vitae consequat
-ultricies, viverra at felis. Mauris tempor interdum posuere. Aliquam
-erat volutpat. Morbi est magna, scelerisque ac euismod eget, hendrerit
-ut erat. Aenean nec purus a lacus ornare congue vel sed lectus. Ut
-pulvinar sollicitudin sapien, id tincidunt turpis convallis ac. Aliquam
-sagittis diam a velit luctus fermentum. Fusce elementum eros ut tellus
-blandit quis suscipit odio pellentesque. Vestibulum commodo dolor ipsum.
+FLAVIUS	|
+	|   tribunes.
+MARULLUS	|
 
-Nullam dapibus sodales metus, ac malesuada dolor tincidunt at. Integer
-euismod erat in tortor mollis eu tempor quam dapibus. Praesent aliquam
-venenatis lacinia. Duis facilisis ante at nisi consectetur ut feugiat
-justo pellentesque. Nulla aliquet iaculis orci eget porta. Nulla
-facilisi. Integer imperdiet tincidunt arcu, semper ultrices odio porta
-vel. Vestibulum tincidunt augue sed ligula sagittis et sagittis ante
-ullamcorper. Nulla a arcu justo, ac adipiscing arcu. Morbi dui sem,
-malesuada vitae gravida non, vestibulum in odio. Nullam rutrum quam eu
-neque pulvinar consectetur. Donec ut enim nulla, et ornare metus.
-Aliquam sit amet massa vel arcu venenatis mollis vel sed nisl.
 
-Donec nibh tortor, cursus sit amet euismod et, venenatis nec libero.
-Nunc dolor nibh, pulvinar eget malesuada at, dictum non dolor. Curabitur
-sollicitudin eros in diam fermentum a hendrerit nunc suscipit. Fusce
-tincidunt malesuada leo, congue aliquam metus pulvinar eu. Cras suscipit
-justo id ipsum commodo viverra. Fusce magna dolor, faucibus ac pharetra
-egestas, sodales eget quam. Curabitur velit sem, congue et consectetur
-vel, mollis congue nibh. Nam pellentesque lacus quis nisi dapibus et
-porttitor lacus adipiscing. Ut placerat dolor eget felis varius vel
-dictum tortor condimentum. Proin cursus varius porta. Praesent vel leo
-sed urna suscipit pulvinar. Mauris vulputate arcu non tellus vulputate
-vel auctor dolor bibendum. Aliquam tempor rutrum luctus. Donec aliquam
-dapibus nisl, vehicula bibendum diam accumsan quis.
+ARTEMIDORUS
+Of Cnidos	a teacher of rhetoric. (ARTEMIDORUS:)
 
-Sed in diam vestibulum tortor mattis dictum. Sed sit amet tristique
-libero. Nullam eu nulla quis tellus pharetra hendrerit id at orci.
-Quisque placerat rhoncus gravida. Quisque ut purus id libero pretium
-facilisis et quis nibh. Aliquam sed hendrerit justo. Suspendisse
-potenti. Fusce tellus diam, ultrices vitae tempor ut, tincidunt ac
-ipsum. Aenean cursus pulvinar molestie. Donec rutrum lacus eu nunc
-venenatis sed condimentum ante porta. Cras sit amet varius velit. Cum
-sociis natoque penatibus et magnis dis parturient montes, nascetur
-ridiculus mus. Phasellus sit amet risus in eros vestibulum ornare.
+A Soothsayer	(Soothsayer:)
 
-Duis ultricies neque non tellus ultrices pretium adipiscing velit
-elementum. Donec ultrices aliquet nibh ac pharetra. Proin nec placerat
-lorem. Quisque elementum nulla sed odio scelerisque aliquet. Sed aliquam
-ullamcorper elementum. Nam vel lorem mi, scelerisque rutrum nisi.
-Phasellus tincidunt venenatis purus. Proin tellus mi, pharetra gravida
-faucibus non, rhoncus quis purus. Nam lacus arcu, elementum sit amet
-mattis id, dapibus cursus sem. Nunc faucibus elit non arcu feugiat
-tincidunt. Donec purus diam, bibendum id imperdiet tempus, luctus vel
-leo. Duis ut nulla vitae lectus semper egestas. Praesent nec mi enim,
-vitae tristique nisl. Cras euismod, mauris nec varius aliquam, nulla
-velit scelerisque eros, at luctus sapien nulla non velit. Cras arcu
-eros, placerat ut pharetra non, porta et massa. Maecenas hendrerit
-bibendum nibh. Ut velit nibh, placerat id egestas vel, commodo ac elit.
-Nulla ultrices consectetur ullamcorper. Aenean rhoncus pellentesque
-lectus, nec pretium nulla cursus eu. Morbi pharetra interdum ligula et
-ultricies.
+CINNA	a poet. (CINNA THE POET:)
 
-Proin sed lacus erat. Aenean eu tortor neque, at malesuada purus.
-Aliquam erat volutpat. Donec ornare nisl laoreet enim euismod sodales
-tristique felis venenatis. Donec quis arcu in leo dapibus ornare. Nullam
-sit amet risus orci, ac commodo risus. Vivamus pulvinar facilisis odio
-sed viverra. Integer tristique consequat ullamcorper. Sed pulvinar
-imperdiet turpis nec semper. Mauris eget nulla odio, commodo convallis
-elit. Ut a mauris sit amet lacus interdum facilisis. Lorem ipsum dolor
-sit amet, consectetur adipiscing elit.
+Another Poet	(Poet:)
 
-Praesent neque ante, porttitor quis faucibus id, fringilla nec urna.
-Praesent dapibus, dolor ut iaculis molestie, lectus purus dapibus orci,
-eget sollicitudin nisi orci et magna. Aliquam dapibus tortor sit amet
-odio luctus semper. Maecenas semper posuere tincidunt. Aenean laoreet
-posuere augue vel adipiscing. Sed et pellentesque est. Curabitur blandit
-nisl porttitor erat scelerisque pellentesque. Sed eu hendrerit quam.
-Morbi tristique lacinia est, non tincidunt lorem bibendum vitae. Cras in
-augue eros, in sollicitudin erat. Suspendisse porta tincidunt gravida.
-Sed aliquam vulputate elementum.
 
-Nunc pretium ultricies tortor, quis ultricies massa rhoncus lobortis.
-Fusce consequat suscipit dictum. Nulla facilisi. Mauris in odio et massa
-auctor venenatis vitae quis nulla. Aliquam erat volutpat. Mauris libero
-mauris, fringilla vel hendrerit quis, porttitor et mi. Praesent accumsan
-tortor eget enim suscipit nec porta erat viverra. Phasellus mauris eros,
-venenatis scelerisque sodales nec, iaculis in justo. Suspendisse
-potenti. Praesent mi nisi, ornare quis condimentum fringilla, luctus sit
-amet velit. Maecenas turpis ligula, consequat ut molestie a, vestibulum
-vitae nibh. Donec id metus ut eros aliquam sollicitudin.
+LUCILIUS		|
+		|
+TITINIUS		|
+		|
+MESSALA		|  friends to Brutus and Cassius.
+		|
+Young CATO	(CATO:)	|
+		|
+VOLUMNIUS		|
 
-Aenean cursus risus ut orci ornare placerat. Phasellus pharetra
-porttitor leo, et facilisis tellus rhoncus consequat. Sed pharetra
-fringilla purus, eget ullamcorper mi dapibus sed. Duis faucibus quam sed
-est venenatis nec scelerisque dolor consequat. Cras nec magna at turpis
-blandit blandit. Fusce eleifend nisl eleifend lorem iaculis ut placerat
-leo euismod. Vestibulum ante ipsum primis in faucibus orci luctus et
-ultrices posuere cubilia Curae; Aliquam erat volutpat. Curabitur massa
-odio, tempor ac sodales nec, sodales sed eros. Etiam venenatis accumsan
-facilisis. Donec eros ante, accumsan sit amet volutpat laoreet, laoreet
-eu sapien. Cras tellus turpis, egestas eu commodo nec, eleifend ac quam.
-Proin a molestie elit. Mauris vehicula aliquam blandit.
 
-Nullam dui elit, sollicitudin vitae pulvinar quis, pharetra a dolor.
-Pellentesque vitae faucibus sem. Pellentesque habitant morbi tristique
-senectus et netus et malesuada fames ac turpis egestas. Integer
-dignissim sollicitudin ante quis tristique. Proin placerat sem justo.
-Aenean et feugiat metus. Donec id sem et mauris ultricies scelerisque.
-Phasellus at elit justo. Nunc erat augue, porta eu rutrum eget, laoreet
-a augue. Aenean turpis mauris, malesuada ut gravida vel, semper gravida
-lectus. Nunc magna eros, suscipit quis euismod eu, iaculis at quam.
-Curabitur vitae dui lorem. Integer nec erat aliquam ipsum congue
-adipiscing eget in leo. Nulla facilisi. Donec suscipit vulputate mauris
-ut molestie. Suspendisse et enim quis tortor ornare ultrices. Fusce in
-consectetur tortor. Fusce ultrices pulvinar arcu, id posuere sem ornare
-at. In eu nulla at arcu iaculis convallis. Aliquam erat volutpat.
+VARRO	|
+	|
+CLITUS	|
+	|
+CLAUDIUS	|
+	|  servants to Brutus.
+STRATO	|
+	|
+LUCIUS	|
+	|
+DARDANIUS	|
 
-Sed dignissim orci ac nibh sollicitudin a imperdiet metus congue. Cras
-vitae risus sed velit ultricies tempor sit amet ac sapien. Maecenas
-mollis ultricies diam ut congue. Aliquam dolor sapien, facilisis et
-elementum a, condimentum sed sem. Sed aliquet ultrices risus, nec
-iaculis odio sollicitudin vitae. Pellentesque at felis urna, lobortis
-tristique diam. Nam dignissim consectetur consequat. Nullam molestie
-porta leo, a rutrum nulla gravida ut. Sed in metus in lectus dignissim
-dapibus. Maecenas erat ligula, sodales ac pharetra eu, lobortis ut nisl.
 
-Nunc euismod aliquam mattis. Mauris hendrerit nulla quis ligula
-venenatis ac commodo leo convallis. Suspendisse tincidunt porta gravida.
-Pellentesque nec leo enim, non gravida ipsum. Suspendisse et orci quam,
-non imperdiet velit. Proin quis lorem massa. Nunc lacinia urna at leo
-convallis sed ultricies purus accumsan. Cras sagittis cursus ante ac
-feugiat. Nulla facilisi. Nunc tristique est eu neque euismod pharetra.
-Mauris urna ipsum, vulputate eu auctor et, sagittis a orci. Sed elit
-tellus, egestas in pellentesque sed, condimentum eu magna. Aenean
-interdum, diam aliquet rutrum congue, lacus orci ultrices lectus, rutrum
-rutrum urna velit a augue. Aliquam magna sem, feugiat quis cursus
-dignissim, aliquam sit amet est. Duis aliquet rutrum laoreet. Mauris
-tempus pulvinar risus, sit amet tempus enim cursus sit amet. Aliquam a
-scelerisque massa. Aenean dapibus odio dolor, ac volutpat odio.
+PINDARUS	servant to Cassius.
 
-Pellentesque iaculis mattis leo sit amet molestie. Nunc ut semper arcu.
-Quisque quis est suscipit magna faucibus euismod sit amet et nisi. Cras
-adipiscing leo facilisis purus malesuada euismod. Duis pulvinar, nisl
-eget interdum vestibulum, lorem metus vestibulum libero, ac hendrerit
-ante dui ut leo. Duis dui ipsum, pharetra a elementum ac, porta eu odio.
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
-cubilia Curae; Quisque eleifend, magna vitae eleifend suscipit, est
-purus condimentum tortor, ut vehicula elit massa vel massa. Nullam neque
-dolor, facilisis eget mollis ut, gravida quis ligula. Aliquam ante
-lorem, adipiscing id convallis non, semper ut tellus. Vestibulum
-elementum mollis mollis. Vestibulum tempus egestas elit et convallis.
+CALPURNIA	wife to Caesar.
+
+PORTIA	wife to Brutus.
+
+	Senators, Citizens, Guards, Attendants, &c.
+	(First Citizen:)
+	(Second Citizen:)
+	(Third Citizen:)
+	(Fourth Citizen:)
+	(First Commoner:)
+	(Second Commoner:)
+	(Servant:)
+	(First Soldier:)
+	(Second Soldier:)
+	(Third Soldier:)
+	(Messenger:)
+
+
+SCENE	Rome: the neighbourhood of Sardis: the neighbourhood
+	of Philippi.
+
+
+
+
+	JULIUS CAESAR
+
+
+ACT I
+
+
+
+SCENE I	Rome. A street.
+
+
+	[Enter FLAVIUS, MARULLUS, and certain Commoners]
+
+FLAVIUS	Hence! home, you idle creatures get you home:
+	Is this a holiday? what! know you not,
+	Being mechanical, you ought not walk
+	Upon a labouring day without the sign
+	Of your profession? Speak, what trade art thou?
+
+First Commoner	Why, sir, a carpenter.
+
+MARULLUS	Where is thy leather apron and thy rule?
+	What dost thou with thy best apparel on?
+	You, sir, what trade are you?
+
+Second Commoner	Truly, sir, in respect of a fine workman, I am but,
+	as you would say, a cobbler.
+
+MARULLUS	But what trade art thou? answer me directly.
+
+Second Commoner	A trade, sir, that, I hope, I may use with a safe
+	conscience; which is, indeed, sir, a mender of bad soles.
+
+MARULLUS	What trade, thou knave? thou naughty knave, what trade?
+
+Second Commoner	Nay, I beseech you, sir, be not out with me: yet,
+	if you be out, sir, I can mend you.
+
+MARULLUS	What meanest thou by that? mend me, thou saucy fellow!
+
+Second Commoner	Why, sir, cobble you.
+
+FLAVIUS	Thou art a cobbler, art thou?
+
+Second Commoner	Truly, sir, all that I live by is with the awl: I
+	meddle with no tradesman's matters, nor women's
+	matters, but with awl. I am, indeed, sir, a surgeon
+	to old shoes; when they are in great danger, I
+	recover them. As proper men as ever trod upon
+	neat's leather have gone upon my handiwork.
+
+FLAVIUS	But wherefore art not in thy shop today?
+	Why dost thou lead these men about the streets?
+
+Second Commoner	Truly, sir, to wear out their shoes, to get myself
+	into more work. But, indeed, sir, we make holiday,
+	to see Caesar and to rejoice in his triumph.
+
+MARULLUS	Wherefore rejoice? What conquest brings he home?
+	What tributaries follow him to Rome,
+	To grace in captive bonds his chariot-wheels?
+	You blocks, you stones, you worse than senseless things!
+	O you hard hearts, you cruel men of Rome,
+	Knew you not Pompey? Many a time and oft
+	Have you climb'd up to walls and battlements,
+	To towers and windows, yea, to chimney-tops,
+	Your infants in your arms, and there have sat
+	The livelong day, with patient expectation,
+	To see great Pompey pass the streets of Rome:
+	And when you saw his chariot but appear,
+	Have you not made an universal shout,
+	That Tiber trembled underneath her banks,
+	To hear the replication of your sounds
+	Made in her concave shores?
+	And do you now put on your best attire?
+	And do you now cull out a holiday?
+	And do you now strew flowers in his way
+	That comes in triumph over Pompey's blood? Be gone!
+	Run to your houses, fall upon your knees,
+	Pray to the gods to intermit the plague
+	That needs must light on this ingratitude.
+
+FLAVIUS	Go, go, good countrymen, and, for this fault,
+	Assemble all the poor men of your sort;
+	Draw them to Tiber banks, and weep your tears
+	Into the channel, till the lowest stream
+	Do kiss the most exalted shores of all.
+
+	[Exeunt all the Commoners]
+
+	See whether their basest metal be not moved;
+	They vanish tongue-tied in their guiltiness.
+	Go you down that way towards the Capitol;
+	This way will I	disrobe the images,
+	If you do find them deck'd with ceremonies.
+
+MARULLUS	May we do so?
+	You know it is the feast of Lupercal.
+
+FLAVIUS	It is no matter; let no images
+	Be hung with Caesar's trophies. I'll about,
+	And drive away the vulgar from the streets:
+	So do you too, where you perceive them thick.
+	These growing feathers pluck'd from Caesar's wing
+	Will make him fly an ordinary pitch,
+	Who else would soar above the view of men
+	And keep us all in servile fearfulness.
+
+	[Exeunt]
+
+
+
+
+	JULIUS CAESAR
+
+
+ACT I
+
+
+
+SCENE II	A public place.
+
+
+
+	[Flourish. Enter CAESAR; ANTONY, for the course;
+	CALPURNIA, PORTIA, DECIUS BRUTUS, CICERO, BRUTUS,
+	CASSIUS, and CASCA; a great crowd following, among
+	them a Soothsayer]
+
+CAESAR	Calpurnia!
+
+CASCA	         Peace, ho! Caesar speaks.
+
+CAESAR	Calpurnia!
+
+CALPURNIA	Here, my lord.
+
+CAESAR	Stand you directly in Antonius' way,
+	When he doth run his course. Antonius!
+
+ANTONY	Caesar, my lord?
+
+CAESAR	Forget not, in your speed, Antonius,
+	To touch Calpurnia; for our elders say,
+	The barren, touched in this holy chase,
+	Shake off their sterile curse.
+
+ANTONY	I shall remember:
+	When Caesar says 'do this,' it is perform'd.
+
+CAESAR	Set on; and leave no ceremony out.
+
+	[Flourish]
+
+Soothsayer	Caesar!
+
+CAESAR	Ha! who calls?
+
+CASCA	Bid every noise be still: peace yet again!
+
+CAESAR	Who is it in the press that calls on me?
+	I hear a tongue, shriller than all the music,
+	Cry 'Caesar!' Speak; Caesar is turn'd to hear.
+
+Soothsayer	Beware the ides of March.
+
+CAESAR	What man is that?
+
+BRUTUS	A soothsayer bids you beware the ides of March.
+
+CAESAR	Set him before me; let me see his face.
+
+CASSIUS	Fellow, come from the throng; look upon Caesar.
+
+CAESAR	What say'st thou to me now? speak once again.
+
+Soothsayer	Beware the ides of March.
+
+CAESAR	He is a dreamer; let us leave him: pass.
+
+	[Sennet. Exeunt all except BRUTUS and CASSIUS]
+
+CASSIUS	Will you go see the order of the course?
+
+BRUTUS	Not I.
+
+CASSIUS	I pray you, do.
+
+BRUTUS	I am not gamesome: I do lack some part
+	Of that quick spirit that is in Antony.
+	Let me not hinder, Cassius, your desires;
+	I'll leave you.
+
+CASSIUS	Brutus, I do observe you now of late:
+	I have not from your eyes that gentleness
+	And show of love as I was wont to have:
+	You bear too stubborn and too strange a hand
+	Over your friend that loves you.
+
+BRUTUS	Cassius,
+	Be not deceived: if I have veil'd my look,
+	I turn the trouble of my countenance
+	Merely upon myself. Vexed I am
+	Of late with passions of some difference,
+	Conceptions only proper to myself,
+	Which give some soil perhaps to my behaviors;
+	But let not therefore my good friends be grieved--
+	Among which number, Cassius, be you one--
+	Nor construe any further my neglect,
+	Than that poor Brutus, with himself at war,
+	Forgets the shows of love to other men.
+
+CASSIUS	Then, Brutus, I have much mistook your passion;
+	By means whereof this breast of mine hath buried
+	Thoughts of great value, worthy cogitations.
+	Tell me, good Brutus, can you see your face?
+
+BRUTUS	No, Cassius; for the eye sees not itself,
+	But by reflection, by some other things.
+
+CASSIUS	'Tis just:
+	And it is very much lamented, Brutus,
+	That you have no such mirrors as will turn
+	Your hidden worthiness into your eye,
+	That you might see your shadow. I have heard,
+	Where many of the best respect in Rome,
+	Except immortal Caesar, speaking of Brutus
+	And groaning underneath this age's yoke,
+	Have wish'd that noble Brutus had his eyes.
+
+BRUTUS	Into what dangers would you lead me, Cassius,
+	That you would have me seek into myself
+	For that which is not in me?
+
+CASSIUS	Therefore, good Brutus, be prepared to hear:
+	And since you know you cannot see yourself
+	So well as by reflection, I, your glass,
+	Will modestly discover to yourself
+	That of yourself which you yet know not of.
+	And be not jealous on me, gentle Brutus:
+	Were I a common laugher, or did use
+	To stale with ordinary oaths my love
+	To every new protester; if you know
+	That I do fawn on men and hug them hard
+	And after scandal them, or if you know
+	That I profess myself in banqueting
+	To all the rout, then hold me dangerous.
+
+	[Flourish, and shout]
+
+BRUTUS	What means this shouting? I do fear, the people
+	Choose Caesar for their king.
+
+CASSIUS	Ay, do you fear it?
+	Then must I think you would not have it so.
+
+BRUTUS	I would not, Cassius; yet I love him well.
+	But wherefore do you hold me here so long?
+	What is it that you would impart to me?
+	If it be aught toward the general good,
+	Set honour in one eye and death i' the other,
+	And I will look on both indifferently,
+	For let the gods so speed me as I love
+	The name of honour more than I fear death.
+
+CASSIUS	I know that virtue to be in you, Brutus,
+	As well as I do know your outward favour.
+	Well, honour is the subject of my story.
+	I cannot tell what you and other men
+	Think of this life; but, for my single self,
+	I had as lief not be as live to be
+	In awe of such a thing as I myself.
+	I was born free as Caesar; so were you:
+	We both have fed as well, and we can both
+	Endure the winter's cold as well as he:
+	For once, upon a raw and gusty day,
+	The troubled Tiber chafing with her shores,
+	Caesar said to me 'Darest thou, Cassius, now
+	Leap in with me into this angry flood,
+	And swim to yonder point?' Upon the word,
+	Accoutred as I was, I plunged in
+	And bade him follow; so indeed he did.
+	The torrent roar'd, and we did buffet it
+	With lusty sinews, throwing it aside
+	And stemming it with hearts of controversy;
+	But ere we could arrive the point proposed,
+	Caesar cried 'Help me, Cassius, or I sink!'
+	I, as Aeneas, our great ancestor,
+	Did from the flames of Troy upon his shoulder
+	The old Anchises bear, so from the waves of Tiber
+	Did I the tired Caesar. And this man
+	Is now become a god, and Cassius is
+	A wretched creature and must bend his body,
+	If Caesar carelessly but nod on him.
+	He had a fever when he was in Spain,
+	And when the fit was on him, I did mark
+	How he did shake: 'tis true, this god did shake;
+	His coward lips did from their colour fly,
+	And that same eye whose bend doth awe the world
+	Did lose his lustre: I did hear him groan:
+	Ay, and that tongue of his that bade the Romans
+	Mark him and write his speeches in their books,
+	Alas, it cried 'Give me some drink, Titinius,'
+	As a sick girl. Ye gods, it doth amaze me
+	A man of such a feeble temper should
+	So get the start of the majestic world
+	And bear the palm alone.
+
+	[Shout. Flourish]
+
+BRUTUS	Another general shout!
+	I do believe that these applauses are
+	For some new honours that are heap'd on Caesar.
+
+CASSIUS	Why, man, he doth bestride the narrow world
+	Like a Colossus, and we petty men
+	Walk under his huge legs and peep about
+	To find ourselves dishonourable graves.
+	Men at some time are masters of their fates:
+	The fault, dear Brutus, is not in our stars,
+	But in ourselves, that we are underlings.
+	Brutus and Caesar: what should be in that 'Caesar'?
+	Why should that name be sounded more than yours?
+	Write them together, yours is as fair a name;
+	Sound them, it doth become the mouth as well;
+	Weigh them, it is as heavy; conjure with 'em,
+	Brutus will start a spirit as soon as Caesar.
+	Now, in the names of all the gods at once,
+	Upon what meat doth this our Caesar feed,
+	That he is grown so great? Age, thou art shamed!
+	Rome, thou hast lost the breed of noble bloods!
+	When went there by an age, since the great flood,
+	But it was famed with more than with one man?
+	When could they say till now, that talk'd of Rome,
+	That her wide walls encompass'd but one man?
+	Now is it Rome indeed and room enough,
+	When there is in it but one only man.
+	O, you and I have heard our fathers say,
+	There was a Brutus once that would have brook'd
+	The eternal devil to keep his state in Rome
+	As easily as a king.
+
+BRUTUS	That you do love me, I am nothing jealous;
+	What you would work me to, I have some aim:
+	How I have thought of this and of these times,
+	I shall recount hereafter; for this present,
+	I would not, so with love I might entreat you,
+	Be any further moved. What you have said
+	I will consider; what you have to say
+	I will with patience hear, and find a time
+	Both meet to hear and answer such high things.
+	Till then, my noble friend, chew upon this:
+	Brutus had rather be a villager
+	Than to repute himself a son of Rome
+	Under these hard conditions as this time
+	Is like to lay upon us.
+
+CASSIUS	I am glad that my weak words
+	Have struck but thus much show of fire from Brutus.
+
+BRUTUS	The games are done and Caesar is returning.
+
+CASSIUS	As they pass by, pluck Casca by the sleeve;
+	And he will, after his sour fashion, tell you
+	What hath proceeded worthy note to-day.
+
+	[Re-enter CAESAR and his Train]
+
+BRUTUS	I will do so. But, look you, Cassius,
+	The angry spot doth glow on Caesar's brow,
+	And all the rest look like a chidden train:
+	Calpurnia's cheek is pale; and Cicero
+	Looks with such ferret and such fiery eyes
+	As we have seen him in the Capitol,
+	Being cross'd in conference by some senators.
+
+CASSIUS	Casca will tell us what the matter is.
+
+CAESAR	Antonius!
+
+ANTONY	Caesar?
+
+CAESAR	Let me have men about me that are fat;
+	Sleek-headed men and such as sleep o' nights:
+	Yond Cassius has a lean and hungry look;
+	He thinks too much: such men are dangerous.
+
+ANTONY	Fear him not, Caesar; he's not dangerous;
+	He is a noble Roman and well given.
+
+CAESAR	Would he were fatter! But I fear him not:
+	Yet if my name were liable to fear,
+	I do not know the man I should avoid
+	So soon as that spare Cassius. He reads much;
+	He is a great observer and he looks
+	Quite through the deeds of men: he loves no plays,
+	As thou dost, Antony; he hears no music;
+	Seldom he smiles, and smiles in such a sort
+	As if he mock'd himself and scorn'd his spirit
+	That could be moved to smile at any thing.
+	Such men as he be never at heart's ease
+	Whiles they behold a greater than themselves,
+	And therefore are they very dangerous.
+	I rather tell thee what is to be fear'd
+	Than what I fear; for always I am Caesar.
+	Come on my right hand, for this ear is deaf,
+	And tell me truly what thou think'st of him.
+
+	[Sennet. Exeunt CAESAR and all his Train, but CASCA]
+
+CASCA	You pull'd me by the cloak; would you speak with me?
+
+BRUTUS	Ay, Casca; tell us what hath chanced to-day,
+	That Caesar looks so sad.
+
+CASCA	Why, you were with him, were you not?
+
+BRUTUS	I should not then ask Casca what had chanced.
+
+CASCA	Why, there was a crown offered him: and being
+	offered him, he put it by with the back of his hand,
+	thus; and then the people fell a-shouting.
+
+BRUTUS	What was the second noise for?
+
+CASCA	Why, for that too.
+
+CASSIUS	They shouted thrice: what was the last cry for?
+
+CASCA	Why, for that too.
+
+BRUTUS	Was the crown offered him thrice?
+
+CASCA	Ay, marry, was't, and he put it by thrice, every
+	time gentler than other, and at every putting-by
+	mine honest neighbours shouted.
+
+CASSIUS	Who offered him the crown?
+
+CASCA	Why, Antony.
+
+BRUTUS	Tell us the manner of it, gentle Casca.
+
+CASCA	I can as well be hanged as tell the manner of it:
+	it was mere foolery; I did not mark it. I saw Mark
+	Antony offer him a crown;--yet 'twas not a crown
+	neither, 'twas one of these coronets;--and, as I told
+	you, he put it by once: but, for all that, to my
+	thinking, he would fain have had it. Then he
+	offered it to him again; then he put it by again:
+	but, to my thinking, he was very loath to lay his
+	fingers off it. And then he offered it the third
+	time; he put it the third time by: and still as he
+	refused it, the rabblement hooted and clapped their
+	chapped hands and threw up their sweaty night-caps
+	and uttered such a deal of stinking breath because
+	Caesar refused the crown that it had almost choked
+	Caesar; for he swounded and fell down at it: and
+	for mine own part, I durst not laugh, for fear of
+	opening my lips and receiving the bad air.
+
+CASSIUS	But, soft, I pray you: what, did Caesar swound?
+
+CASCA	He fell down in the market-place, and foamed at
+	mouth, and was speechless.
+
+BRUTUS	'Tis very like: he hath the failing sickness.
+
+CASSIUS	No, Caesar hath it not; but you and I,
+	And honest Casca, we have the falling sickness.
+
+CASCA	I know not what you mean by that; but, I am sure,
+	Caesar fell down. If the tag-rag people did not
+	clap him and hiss him, according as he pleased and
+	displeased them, as they use to do the players in
+	the theatre, I am no true man.
+
+BRUTUS	What said he when he came unto himself?
+
+CASCA	Marry, before he fell down, when he perceived the
+	common herd was glad he refused the crown, he
+	plucked me ope his doublet and offered them his
+	throat to cut. An I had been a man of any
+	occupation, if I would not have taken him at a word,
+	I would I might go to hell among the rogues. And so
+	he fell. When he came to himself again, he said,
+	If he had done or said any thing amiss, he desired
+	their worships to think it was his infirmity. Three
+	or four wenches, where I stood, cried 'Alas, good
+	soul!' and forgave him with all their hearts: but
+	there's no heed to be taken of them; if Caesar had
+	stabbed their mothers, they would have done no less.
+
+BRUTUS	And after that, he came, thus sad, away?
+
+CASCA	Ay.
+
+CASSIUS	Did Cicero say any thing?
+
+CASCA	Ay, he spoke Greek.
+
+CASSIUS	To what effect?
+
+CASCA	Nay, an I tell you that, Ill ne'er look you i' the
+	face again: but those that understood him smiled at
+	one another and shook their heads; but, for mine own
+	part, it was Greek to me. I could tell you more
+	news too: Marullus and Flavius, for pulling scarfs
+	off Caesar's images, are put to silence. Fare you
+	well. There was more foolery yet, if I could
+	remember it.
+
+CASSIUS	Will you sup with me to-night, Casca?
+
+CASCA	No, I am promised forth.
+
+CASSIUS	Will you dine with me to-morrow?
+
+CASCA	Ay, if I be alive and your mind hold and your dinner
+	worth the eating.
+
+CASSIUS	Good: I will expect you.
+
+CASCA	Do so. Farewell, both.
+
+	[Exit]
+
+BRUTUS	What a blunt fellow is this grown to be!
+	He was quick mettle when he went to school.
+
+CASSIUS	So is he now in execution
+	Of any bold or noble enterprise,
+	However he puts on this tardy form.
+	This rudeness is a sauce to his good wit,
+	Which gives men stomach to digest his words
+	With better appetite.
+
+BRUTUS	And so it is. For this time I will leave you:
+	To-morrow, if you please to speak with me,
+	I will come home to you; or, if you will,
+	Come home to me, and I will wait for you.
+
+CASSIUS	I will do so: till then, think of the world.
+
+	[Exit BRUTUS]
+
+	Well, Brutus, thou art noble; yet, I see,
+	Thy honourable metal may be wrought
+	From that it is disposed: therefore it is meet
+	That noble minds keep ever with their likes;
+	For who so firm that cannot be seduced?
+	Caesar doth bear me hard; but he loves Brutus:
+	If I were Brutus now and he were Cassius,
+	He should not humour me. I will this night,
+	In several hands, in at his windows throw,
+	As if they came from several citizens,
+	Writings all tending to the great opinion
+	That Rome holds of his name; wherein obscurely
+	Caesar's ambition shall be glanced at:
+	And after this let Caesar seat him sure;
+	For we will shake him, or worse days endure.
+
+	[Exit]
+
+
+
+
+	JULIUS CAESAR
+
+
+ACT I
+
+
+
+SCENE III	The same. A street.
+
+
+
+
+	[Thunder and lightning. Enter from opposite sides,
+	CASCA, with his sword drawn, and CICERO]
+
+CICERO	Good even, Casca: brought you Caesar home?
+	Why are you breathless? and why stare you so?
+
+CASCA	Are not you moved, when all the sway of earth
+	Shakes like a thing unfirm? O Cicero,
+	I have seen tempests, when the scolding winds
+	Have rived the knotty oaks, and I have seen
+	The ambitious ocean swell and rage and foam,
+	To be exalted with the threatening clouds:
+	But never till to-night, never till now,
+	Did I go through a tempest dropping fire.
+	Either there is a civil strife in heaven,
+	Or else the world, too saucy with the gods,
+	Incenses them to send destruction.
+
+CICERO	Why, saw you any thing more wonderful?
+
+CASCA	A common slave--you know him well by sight--
+	Held up his left hand, which did flame and burn
+	Like twenty torches join'd, and yet his hand,
+	Not sensible of fire, remain'd unscorch'd.
+	Besides--I ha' not since put up my sword--
+	Against the Capitol I met a lion,
+	Who glared upon me, and went surly by,
+	Without annoying me: and there were drawn
+	Upon a heap a hundred ghastly women,
+	Transformed with their fear; who swore they saw
+	Men all in fire walk up and down the streets.
+	And yesterday the bird of night did sit
+	Even at noon-day upon the market-place,
+	Hooting and shrieking. When these prodigies
+	Do so conjointly meet, let not men say
+	'These are their reasons; they are natural;'
+	For, I believe, they are portentous things
+	Unto the climate that they point upon.
+
+CICERO	Indeed, it is a strange-disposed time:
+	But men may construe things after their fashion,
+	Clean from the purpose of the things themselves.
+	Come Caesar to the Capitol to-morrow?
+
+CASCA	He doth; for he did bid Antonius
+	Send word to you he would be there to-morrow.
+
+CICERO	Good night then, Casca: this disturbed sky
+	Is not to walk in.
+
+CASCA	Farewell, Cicero.
+
+	[Exit CICERO]
+
+	[Enter CASSIUS]
+
+CASSIUS	Who's there?
+
+CASCA	                  A Roman.
+
+CASSIUS	Casca, by your voice.
+
+CASCA	Your ear is good. Cassius, what night is this!
+
+CASSIUS	A very pleasing night to honest men.
+
+CASCA	Who ever knew the heavens menace so?
+
+CASSIUS	Those that have known the earth so full of faults.
+	For my part, I have walk'd about the streets,
+	Submitting me unto the perilous night,
+	And, thus unbraced, Casca, as you see,
+	Have bared my bosom to the thunder-stone;
+	And when the cross blue lightning seem'd to open
+	The breast of heaven, I did present myself
+	Even in the aim and very flash of it.
+
+CASCA	But wherefore did you so much tempt the heavens?
+	It is the part of men to fear and tremble,
+	When the most mighty gods by tokens send
+	Such dreadful heralds to astonish us.
+
+CASSIUS	You are dull, Casca, and those sparks of life
+	That should be in a Roman you do want,
+	Or else you use not. You look pale and gaze
+	And put on fear and cast yourself in wonder,
+	To see the strange impatience of the heavens:
+	But if you would consider the true cause
+	Why all these fires, why all these gliding ghosts,
+	Why birds and beasts from quality and kind,
+	Why old men fool and children calculate,
+	Why all these things change from their ordinance
+	Their natures and preformed faculties
+	To monstrous quality,--why, you shall find
+	That heaven hath infused them with these spirits,
+	To make them instruments of fear and warning
+	Unto some monstrous state.
+	Now could I, Casca, name to thee a man
+	Most like this dreadful night,
+	That thunders, lightens, opens graves, and roars
+	As doth the lion in the Capitol,
+	A man no mightier than thyself or me
+	In personal action, yet prodigious grown
+	And fearful, as these strange eruptions are.
+
+CASCA	'Tis Caesar that you mean; is it not, Cassius?
+
+CASSIUS	Let it be who it is: for Romans now
+	Have thews and limbs like to their ancestors;
+	But, woe the while! our fathers' minds are dead,
+	And we are govern'd with our mothers' spirits;
+	Our yoke and sufferance show us womanish.
+
+CASCA	Indeed, they say the senators tomorrow
+	Mean to establish Caesar as a king;
+	And he shall wear his crown by sea and land,
+	In every place, save here in Italy.
+
+CASSIUS	I know where I will wear this dagger then;
+	Cassius from bondage will deliver Cassius:
+	Therein, ye gods, you make the weak most strong;
+	Therein, ye gods, you tyrants do defeat:
+	Nor stony tower, nor walls of beaten brass,
+	Nor airless dungeon, nor strong links of iron,
+	Can be retentive to the strength of spirit;
+	But life, being weary of these worldly bars,
+	Never lacks power to dismiss itself.
+	If I know this, know all the world besides,
+	That part of tyranny that I do bear
+	I can shake off at pleasure.
+
+	[Thund
