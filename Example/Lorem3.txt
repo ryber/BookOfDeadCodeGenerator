@@ -665,52 +665,7 @@ Lord Chief-Justice	Your means are very slender, and your waste is great.
 FALSTAFF	I would it were otherwise; I would my means were
 	greater, and my waist slenderer.
 
-Lord Chief-Justice	You have misled the youthful prince.
-
-FALSTAFF	The young prince hath misled me: I am the fellow
-	with the great belly, and he my dog.
-
-Lord Chief-Justice	Well, I am loath to gall a new-healed wound: your
-	day's service at Shrewsbury hath a little gilded
-	over your night's exploit on Gad's-hill: you may
-	thank the unquiet time for your quiet o'er-posting
-	that action.
-
-FALSTAFF	My lord?
-
-Lord Chief-Justice	But since all is well, keep it so: wake not a
-	sleeping wolf.
-
-FALSTAFF	To wake a wolf is as bad as to smell a fox.
-
-Lord Chief-Justice	What! you are as a candle, the better part burnt
-	out.
-
-FALSTAFF	A wassail candle, my lord, all tallow: if I did say
-	of wax, my growth would approve the truth.
-
-Lord Chief-Justice	There is not a white hair on your face but should
-	have his effect of gravity.
-
-FALSTAFF	His effect of gravy, gravy, gravy.
-
-Lord Chief-Justice	You follow the young prince up and down, like his
-	ill angel.
-
-FALSTAFF	Not so, my lord; your ill angel is light; but I hope
-	he that looks upon me will take me without weighing:
-	and yet, in some respects, I grant, I cannot go: I
-	cannot tell. Virtue is of so little regard in these
-	costermonger times that true valour is turned
-	bear-herd: pregnancy is made a tapster, and hath
-	his quick wit wasted in giving reckonings: all the
-	other gifts appertinent to man, as the malice of
-	this age shapes them, are not worth a gooseberry.
-	You that are old consider not the capacities of us
-	that are young; you do measure the heat of our
-	livers with the bitterness of your galls: and we
-	that are in the vaward of our youth, I must confess,
-	are wags too.
+Lord Chief
 
 Lord Chief-Justice	Do you set down your name in the scroll of youth,
 	that are written down old with all the characters of
@@ -761,6 +716,20 @@ FALSTAFF	Yea; I thank your pretty sweet wit for it. But look
 	terrible to the enemy as it is: I were better to be
 	eaten to death with a rust than to be scoured to
 	nothing with perpetual motion.
+	
+	Nulla semper, est tempus fringilla elementum, elit nunc sodales erat, in
+consequat metus elit in elit. Cras sed interdum est. Nam vitae euismod
+orci. Donec sed eros urna, nec hendrerit urna. In justo odio, posuere
+vitae sodales quis, posuere ut nulla. Donec ante arcu, porta non rutrum
+at, placerat eget odio. Suspendisse varius dictum porta. Aliquam erat
+volutpat. Duis semper lectus at elit egestas tempus. Sed auctor felis
+sit amet justo vehicula a vestibulum magna dictum. Nam gravida lorem ac
+purus aliquet porta. Vestibulum aliquet tellus a lorem mollis fermentum.
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
+ridiculus mus. Quisque lectus quam, laoreet quis pharetra ut, bibendum
+in purus.
+
+
 
 Lord Chief-Justice	Well, be honest, be honest; and God bless your
 	expedition!
@@ -2189,32 +2158,6 @@ SCENE I	Westminster. The palace.
 
 	[Enter KING HENRY IV in his nightgown, with a Page]
 
-KING HENRY IV	Go call the Earls of Surrey and of Warwick;
-	But, ere they come, bid them o'er-read these letters,
-	And well consider of them; make good speed.
-
-	[Exit Page]
-
-	How many thousand of my poorest subjects
-	Are at this hour asleep! O sleep, O gentle sleep,
-	Nature's soft nurse, how have I frighted thee,
-	That thou no more wilt weigh my eyelids down
-	And steep my senses in forgetfulness?
-	Why rather, sleep, liest thou in smoky cribs,
-	Upon uneasy pallets stretching thee
-	And hush'd with buzzing night-flies to thy slumber,
-	Than in the perfumed chambers of the great,
-	Under the canopies of costly state,
-	And lull'd with sound of sweetest melody?
-	O thou dull god, why liest thou with the vile
-	In loathsome beds, and leavest the kingly couch
-	A watch-case or a common 'larum-bell?
-	Wilt thou upon the high and giddy mast
-	Seal up the ship-boy's eyes, and rock his brains
-	In cradle of the rude imperious surge
-	And in the visitation of the winds,
-	Who take the ruffian billows by the top,
-	Curling their monstrous heads and hanging them
 	With deafening clamour in the slippery clouds,
 	That, with the hurly, death itself awakes?
 	Canst thou, O partial sleep, give thy repose
@@ -4861,25 +4804,7 @@ Dancer	First my fear; then my courtesy; last my speech.
 	for a good speech now, you undo me: for what I have
 	to say is of mine own making; and what indeed I
 	should say will, I doubt, prove mine own marring.
-	But to the purpose, and so to the venture. Be it
-	known to you, as it is very well, I was lately here
-	in the end of a displeasing play, to pray your
-	patience for it and to promise you a better. I
-	meant indeed to pay you with this; which, if like an
-	ill venture it come unluckily home, I break, and
-	you, my gentle creditors, lose. Here I promised you
-	I would be and here I commit my body to your
-	mercies: bate me some and I will pay you some and,
-	as most debtors do, promise you infinitely.
-
-	If my tongue cannot entreat you to acquit me, will
-	you command me to use my legs? and yet that were but
-	light payment, to dance out of your debt. But a
-	good conscience will make any possible satisfaction,
-	and so would I. All the gentlewomen here have
-	forgiven me: if the gentlemen will not, then the
-	gentlemen do not agree with the gentlewomen, which
-	was never seen before in such an assembly.
+	B
 
 	One word more, I beseech you. If you be not too
 	much cloyed with fat meat, our humble author will
