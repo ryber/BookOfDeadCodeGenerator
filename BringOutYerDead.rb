@@ -1,19 +1,22 @@
 #!/usr/bin/ruby
 
-# $ git diff --word-diff=porcelain --unified=0  365dcda1d9d90249a12b72d5c38d9cefe4860013 e914071bd374798b853d27f65df985d499a980fb
 require 'rubygems'
 require 'grit'
 include Grit
 
-puts "Hello WOrld"
 
-repo = Repo.new("~/sites/Ninject-Examples/")
-
-#repo.commits.each do |commit|
-#		puts commit.headers
-#	end
+Git.git_timeout = 100
 	
-repo.commit_diff('7080cf24b07c27ece142e91aee4cc7d247318cd0').each do |dif|
-	puts dif.deleted_file
+result = ''
+
+Repo.new(".").commit_diff('d7a29fc3143cad250a6e31226710d6492ffeb296').each do |dif|
+	dif.diff.each_line do |line|
+		if(line[0,1] == '-')
+			result << line[1,line.length].gsub(' ','').gsub('	','').gsub(/\n/,'').gsub(/\r/,'')
+		end
+	end
 end
+
+puts result.scan(/.{1,120}/).join("\n")
+
 
