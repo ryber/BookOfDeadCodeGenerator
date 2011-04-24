@@ -1,0 +1,23 @@
+Greetings 
+
+This is a little code for generating a "Book of Dead Code" off of a git commit. Dead code books are good visualizations of code that should not have been written to begin with. You can read about my own experience here:
+
+http://ryber.tumblr.com/post/4745553646/the-big-book-of-dead-code
+
+Installation:
+============================
+It's written in Ruby and uses the grit ruby gem. Ill let you figure all that out on your own.
+
+Place the file in the root of the project you want to generate..OR edit the repo location in the program.
+
+Usage
+=============================
+Open the script, and change the git commit hash to the one you want to generate the book off of. If you want to save the results, just pipe them off into a file when you run it.
+
+Roadmap
+=============================
+1) give it command line params
+2) Allow a "from" and "to" commit hash so you can do a range.
+3) Allow it prepend a owesome Danzig ASCII art cover page to the result.
+4) I don't often write Ruby, so what's here may suck. Feel free to let me know the many ways it sucks so I can make it better.
+
