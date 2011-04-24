@@ -6,10 +6,13 @@ include Grit
 
 
 Git.git_timeout = 100
+
+commitHash = 'd7a29fc3143cad250a6e31226710d6492ffeb296'
+
 	
 result = ''
 
-Repo.new(".").commit_diff('d7a29fc3143cad250a6e31226710d6492ffeb296').each do |dif|
+Repo.new(".").commit_diff(commitHash).each do |dif|
 	dif.diff.each_line do |line|
 		if(line[0,1] == '-')
 			result << line[1,line.length].gsub(' ','').gsub('	','').gsub(/\n/,'').gsub(/\r/,'')
