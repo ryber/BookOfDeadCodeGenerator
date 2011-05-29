@@ -18,6 +18,6 @@ Roadmap
 =============================
 1) give it command line params
 2) Allow a "from" and "to" commit hash so you can do a range.
-3) Allow it prepend a owesome Danzig ASCII art cover page to the result.
+3) Allow it prepend a awesome Danzig ASCII art cover page to the result.
 4) I don't often write Ruby, so what's here may suck. Feel free to let me know the many ways it sucks so I can make it better.
 
